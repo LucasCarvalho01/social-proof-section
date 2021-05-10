@@ -8,9 +8,11 @@ The challege was to build the website according to the design above. It has resp
 
 ## Live Site
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fe05272c-5846-4235-9f06-5b6f4796217c/deploy-status)](https://app.netlify.com/sites/quirky-elion-6fa83a/deploys)
+
 Here's the link to check the live preview site: 
 
-- 
+- [Live Preview](https://quirky-elion-6fa83a.netlify.app/)
 
 ## Built With
 
@@ -22,4 +24,4 @@ Here's the link to check the live preview site:
 
 ## Link to the challenge
 
-![Frontend mentor challenge](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
+[Frontend mentor challenge](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
